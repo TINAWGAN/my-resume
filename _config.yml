@@ -1,8 +1,7 @@
 # Site settings
 title: "dasdafdfdsafdsaekyll Resume Template"
 description: "A resume template for Jekyll and GitHub Pages sites."
-fasdsazc
-sf
+
 # Build settings
 markdown: kramdown
 sass:
