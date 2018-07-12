@@ -1,7 +1,7 @@
 # Site settings
-title: "bsdfasJHFDASHFSDAFVVGGVGVeard's resume"
-description: "biu biu ."
-DDA
+title: "dasdafdfdsafdsaekyll Resume Template"
+description: "A resume template for Jekyll and GitHub Pages sites."
+
 # Build settings
 markdown: kramdown
 sass:
